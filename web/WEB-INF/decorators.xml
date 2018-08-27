@@ -1,0 +1,15 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<decorators defaultdir="/layout/">-->
+    <!--&lt;!&ndash; 先定义不过滤的页面，即排除页面 &ndash;&gt;-->
+    <!--<excludes>-->
+        <!--<pattern>/css/*</pattern>-->
+    <!--</excludes>-->
+
+    <!--&lt;!&ndash; 定义需要修饰的页面 &ndash;&gt;-->
+    <!--<decorator name="book" page="heard.jsp">-->
+        <!--<pattern>/*</pattern>-->
+    <!--</decorator>-->
+
+
+
+<!--</decorators>-->
